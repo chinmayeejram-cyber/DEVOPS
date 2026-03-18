@@ -1,0 +1,39 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+header {
+    text-align: center;
+    color: rgb(113, 0, 139);
+}
+
+section {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+h2 {
+    color: rgb(0, 100, 95);
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 200px;
+    align-items: center;
+}
+
+input[type="submit"] {
+    padding: 5px 10px;
+    background-color: rgb(113, 0, 139);
+    color: white;
+    border: none;
+    align-items: center;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
