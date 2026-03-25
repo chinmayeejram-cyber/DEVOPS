@@ -13,5 +13,5 @@ jobs:
       uses: actions/Checkout@v3
 
     - name: Run simple command 
-      run: echo "This is my pipeline run"
+      run: echo "not my Pipeline"
 
