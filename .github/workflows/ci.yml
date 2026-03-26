@@ -21,3 +21,7 @@ jobs:
     - name: step2
       run: echo "second pipeline" 
 
+    - name: pipeline break
+      run: echo "final pipeline fixed"  
+       
+
