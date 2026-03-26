@@ -15,10 +15,9 @@ jobs:
     - name: Run simple command 
       run: echo "not my Pipeline"
     
-   steps:
     - name: step1 
-      run: echo"New pipeline
+      run: echo "New pipeline"
 
     - name: step2
-      run: echo"second pipeline"
+      run: echo "second pipeline" 
 
